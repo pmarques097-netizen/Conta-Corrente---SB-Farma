@@ -1,2 +1,0 @@
-# Sem dependências de sistema obrigatórias.
-# O PostgreSQL usa psycopg2-binary / psycopg-binary via wheel.
